@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio – Smart Photo Transformer_01",
+  "description": "An application that allows users to automatically edit photos using artificial intelligence, converting them into stylized avatars or professional-looking studio portraits with adjustments to lighting, background, and sharpness.",
+  "requestFramePermissions": []
+}
